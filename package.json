@@ -1,0 +1,32 @@
+{
+  "name": "blog",
+  "version": "1.0.0",
+  "description": "this is blog project",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/EpohSiEreht/BlogProject.git"
+  },
+  "keywords": [
+    "blog",
+    "project"
+  ],
+  "author": "David Lee Aleksandra Matiyev",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/EpohSiEreht/BlogProject/issues"
+  },
+  "homepage": "https://github.com/EpohSiEreht/BlogProject#readme",
+  "dependencies": {
+    "body-parser": "^1.14.2",
+    "ejs": "^2.3.4",
+    "express": "^4.13.3",
+    "kerberos": "0.0.17",
+    "moment": "^2.11.1",
+    "mongoose": "^4.3.5",
+    "morgan": "^1.6.1"
+  }
+}
